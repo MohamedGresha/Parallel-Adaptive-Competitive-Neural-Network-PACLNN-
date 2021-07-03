@@ -1,10 +1,12 @@
 % run an algorithm to estimate the number of clusters in a data set
 % for 100 times and save the results
 
-% Ahmed Rafat
-% Mar. 13
-
-% Pima data set
+% Ahmed Tool Box
+% MAR. 2013
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 kopt=[];
 NMI_vec=[];
 bestk_vec=[];
