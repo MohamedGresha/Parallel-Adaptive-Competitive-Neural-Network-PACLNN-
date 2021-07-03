@@ -4,8 +4,12 @@ function [bestk,bestw,ACL,clusterid,NMI,ACL_vec,k_vec]=demo17()
 %
 %NMI is the normalized mutual information between the cluster id vector and the class id vector. 
 
-%Ahmed Rafat
-%Mar. 13
+% Ahmed Tool Box
+% MAR. 2013
+%
+% Updated by 
+% Mohamed Gresha
+% 2021
 
 load breast_cancer_balanced;
 [X,varmin,varrange]=atscale(X);
