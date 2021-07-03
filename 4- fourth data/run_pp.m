@@ -1,11 +1,10 @@
 % run an algorithm to estimate the number of clusters in a data set
-% for 100 times and save the results
+% for 10 times and save the results
 
 %Ahmed Rafat
 %Mohamed Gresha
 %Oct. 18
 
-% frogsmfccs data set
 
 base_path = 'D:\1-Paper\paper 1\00-MATLAB\new\big\4- fourth data\1';
 for q=1:10                %run the Algorithm 100 time to 
