@@ -5,7 +5,6 @@
 %Mohamed Gresha
 %Oct. 18
 
-% frogsmfccs data set
 
 base_path = 'D:\1-Paper\paper 1\00-MATLAB\new\big\2- second_big\1';
 for q=1:10                %run the Algorithm 100 time to 
